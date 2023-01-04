@@ -1,0 +1,118 @@
+h1{
+  background-color: #CE1141;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+h2{
+  color: #CE1141;
+  font-family: Arial, sans-serif;
+  margin: auto;
+  display: block;
+  text-align: center;
+}
+
+img{
+  margin: auto;
+  display: block;
+}
+
+#image{
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption{
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#img-div{
+  background-color: #CE1141;
+}
+
+hr.rounded {
+  border-top: 8px solid #A1A1A4;
+  border-radius: 5px;
+}
+
+#img-div2{
+  background-color: #CE1141;
+}
+
+img2{
+  margin: auto;
+  display: block;
+}
+
+#image2{
+  border-radius: 50px;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption2{
+  background-color: #CE1141;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+
+#img-div3{
+  background-color: #CE1141;
+}
+
+img3{
+  margin: auto;
+  display: block;
+}
+
+#image3{
+  border-radius: 50px;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption3{
+  background-color: #CE1141;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+
+#img-div4{
+  background-color: #CE1141;
+}
+
+img4{
+  margin: auto;
+  display: block;
+}
+
+#image4{
+  border-radius: 50px;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption4{
+  background-color: #CE1141;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#tribute-info{
+  color: white;
+}
+
+#tribute-link{
+  color: white;
+}
+
+
